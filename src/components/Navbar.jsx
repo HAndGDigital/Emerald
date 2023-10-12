@@ -1,7 +1,7 @@
 import React from "react";
 import { FaBarsStaggered } from "react-icons/fa6";
 import { NavLink } from "react-router-dom";
-import logoMain from "../assets/images/logo.png";
+import logoMain from "../assets/images/Logo.png";
 import NavLinks from "./NavLinks";
 
 function Navbar() {
